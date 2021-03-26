@@ -1,4 +1,4 @@
-package com.incomplete.slack.app;
+package com.incomplete.messenger.app;
 
 /**
  * Created by Incomplete on 3/23/21.
