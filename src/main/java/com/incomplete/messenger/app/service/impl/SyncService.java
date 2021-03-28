@@ -1,7 +1,7 @@
 package com.incomplete.messenger.app.service.impl;
 
 import com.incomplete.messenger.app.model.Message;
-import com.incomplete.messenger.app.service.def.ISyncService;
+import com.incomplete.messenger.app.service.interfaces.ISyncService;
 
 import java.util.List;
 

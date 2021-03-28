@@ -3,7 +3,7 @@ package com.incomplete.messenger.app.service.impl;
 import com.incomplete.messenger.app.model.ChatThread;
 import com.incomplete.messenger.app.model.DM;
 import com.incomplete.messenger.app.model.Group;
-import com.incomplete.messenger.app.service.def.IMetadataService;
+import com.incomplete.messenger.app.service.interfaces.IMetadataService;
 
 import java.util.List;
 

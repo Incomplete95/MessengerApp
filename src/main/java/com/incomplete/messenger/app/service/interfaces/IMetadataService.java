@@ -1,4 +1,4 @@
-package com.incomplete.messenger.app.service.def;
+package com.incomplete.messenger.app.service.interfaces;
 
 import com.incomplete.messenger.app.model.ChatThread;
 import com.incomplete.messenger.app.model.DM;
